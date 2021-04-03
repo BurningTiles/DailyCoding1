@@ -1,0 +1,36 @@
+First repeating character
+
+Description :
+You will be given a string and you have to find a character which occurs first. 
+Let's take one string abdgdba, here a, b and d are repeating.
+If we go left to right we can see that d is the character which repeating before other characters.
+So ans will be 'd'(without quatation)
+If there is no repeating characters (ex. code) then program should return -1.
+
+Hint : 
+It is guaranteed that given string will be valid and it will contain only lower case characters.
+
+Input :
+t - number of test cases
+next t lines contains one string S
+
+Output :
+t lines, each line contains a single character which repeats first. If no repeating character then ans should be -1
+
+
+Example :
+
+Input:
+5
+abcdabcd
+abcdc
+udhekfedhs
+attitude
+minus
+
+Output:
+a
+c
+e
+t
+-1
