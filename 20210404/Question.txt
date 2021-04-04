@@ -9,7 +9,7 @@ All numbers will be in range of 32bit signed integer.
 Input :
 first-line : t - number of test cases
 for t test-cases : first-line contains n (integer)- length of array
-                 : second-line contains n integers coma separated
+                 : second-line contains n integers space separated
 
 Output :
 t lines, each line contains two integers a b where a and b corresponds to Minimum and Maximum value respectively.
