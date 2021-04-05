@@ -1,0 +1,32 @@
+Minimum and Maximum
+
+Description :
+You will be given an array A of length N. there will Q quries.
+Each query contains one index I (1-indexed), for each I you've to print maximum and minimum in array range 1 to I.
+
+Constraint : 
+All numbers will be positive integer.
+
+Input :
+first-line contains N - length of array
+second-line contains N integers space separated
+third-line contains Q - number of quries
+fourth-line contains Q integers representing Index I for each query.
+
+Output :
+Q lines, each line contains a and b which represents minimum and maximum in range 1 to I.
+
+Example :
+
+Input:
+20
+11 14 15 18 16 17 12 14 11 3 2 10 13 10 1 17 20 15 9 17
+6
+10 3 8 17 14 20
+
+Output:
+3 18
+11 15
+11 18
+1 20
+1 20
