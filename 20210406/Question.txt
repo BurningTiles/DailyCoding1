@@ -1,0 +1,31 @@
+Two number sum
+
+Description :
+There will t test cases. For each test case two integer will be given and you have to print sum of them.
+
+Constraint : 
+All numbers will be positive integer.
+
+Input :
+first-line contains t - test-cases
+next t lines will contain a, b two integers
+
+Output :
+t lines, each line contains single integer which represents sum of two numbers.
+
+Example :
+
+Input:
+5
+23 51
+3 53
+243 6345
+234 435
+26 46
+
+Output:
+74
+56
+6588
+669
+72
