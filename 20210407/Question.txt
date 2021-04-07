@@ -1,0 +1,28 @@
+Two number sum
+
+Description :
+There will t test cases. For each test case you will be given an array and you have to find sum of the elements of the array.
+
+Constraint : 
+All numbers will be positive integer.
+
+Input :
+first-line contains t - test-cases
+for each test-case : first-line contains one integer N which will represents size of array.
+                   : second-line contains N space separated integers
+
+Output :
+t lines, each line contains single integer which represents sum of all elements of array.
+
+Example :
+
+Input:
+2
+5
+73 74 83 75 7
+9
+94 2 97 40 59 66 20 91 41
+
+Output:
+312
+510
