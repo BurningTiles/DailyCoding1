@@ -1,0 +1,20 @@
+Hello World!
+
+Description :
+One string(name) will be given as input, print Hello world and appreciate them.
+
+Input :
+One string representing name. (No spaces)
+
+Output :
+Hello World!
+Thank you <name> for visiting.
+
+Example :
+
+Input:
+Manish
+
+Output:
+Hello World!
+Thank you Manish for visiting.
