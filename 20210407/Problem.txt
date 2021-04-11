@@ -1,4 +1,4 @@
-Two number sum
+Array sum
 
 Description :
 There will t test cases. For each test case you will be given an array and you have to find sum of the elements of the array.
