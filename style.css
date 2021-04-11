@@ -80,3 +80,10 @@ u {
 	/* font-size: 30px; */
 	text-decoration: none;
 }
+
+.border {
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 0 5px;
+	margin-right: 7px;
+}
