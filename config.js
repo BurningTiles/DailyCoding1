@@ -1,5 +1,6 @@
 data_table = [
-	{date: "13 Apr 2021", dir: "20210413", topic: "Array", problem: "Sort an Array in linear time", solution: []},
+	{date: "14 Apr 2021", dir: "20210414", topic: "Array", problem: "Move all negative numbers to begining", solution: []},
+	{date: "13 Apr 2021", dir: "20210413", topic: "Array", problem: "Sort an Array in linear time", solution: ["CPP"]},
 	{date: "12 Apr 2021", dir: "20210412", topic: "Array", problem: "Kth smallest element", solution: ["CPP"]},
 	{date: "11 Apr 2021", dir: "20210411", topic: "Array", problem: "Maximum and Minimum of an Array", solution: ["CPP"]},
 	{date: "10 Apr 2021", dir: "20210410", topic: "Array", problem: "Reverse an Array and String", solution: ["CPP"]},
