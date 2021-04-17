@@ -1,5 +1,5 @@
 data_table = [
-	{date: "17 Apr 2021", dir: "20210417", topic: "Array", problem: "Largest sum of contiguous subarray (V.Imp)", solution: []},
+	{date: "17 Apr 2021", dir: "20210417", topic: "Array", problem: "Largest sum of contiguous subarray (V.Imp)", solution: ["CPP"]},
 	{date: "16 Apr 2021", dir: "20210416", topic: "Array", problem: "Cyclic rotate an araay", solution: ["CPP"]},
 	{date: "15 Apr 2021", dir: "20210415", topic: "Array", problem: "Union and Intersection of two Arrays", solution: ["CPP"]},
 	{date: "14 Apr 2021", dir: "20210414", topic: "Array", problem: "Move all negative numbers to begining", solution: ["CPP"]},
