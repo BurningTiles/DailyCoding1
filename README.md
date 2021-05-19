@@ -1,4 +1,4 @@
 # DailyCoding
-Solve at least one coding question.
+Project discontinued because of no users.
 
-[Score Board](https://burningtiles.github.io/DailyCoding)
+[Website](https://burningtiles.github.io/DailyCoding)
