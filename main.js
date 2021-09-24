@@ -1,7 +1,7 @@
 table = document.getElementById("table");
 table.innerHTML = "<tr><th>Date</th><th>Problem</th><th>Topic</th><th>Solution</th></tr>";
 
-link = "https://github.com/BurningTiles/DailyCoding/blob/main/";
+link = "https://github.com/BurningTiles/DailyCoding1/blob/main/";
 
 for (let i in data_table) {
 	let data = data_table[i];
